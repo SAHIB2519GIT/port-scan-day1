@@ -12,7 +12,6 @@ port-scan-day1/
 ├─ analysis.md ← Detailed Day 1 report with insights
 ├─ README.md ← Project summary & documentation
 ├─ outputs/ ← Nmap scan outputs (.nmap, .xml, .gnmap)
-└─ screenshots/ ← screenshots of scan results
 
 ## 🛠️ Tools & Technologies
 - **Nmap** – Network discovery & security auditing  
